@@ -30,7 +30,7 @@ Hi there! I'm an aspiring **DevOps Engineer** with a passion for automation, clo
 
 (xi). **Container Orchestration**| ![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png) |
 
-(xii). **CI/CD Pipelines**| ![GitLab CI](https://img.icons8.com/color/48/000000/gitlab.png) | ![GitHub Actions] (https://img.icons8.com/?size=50&id=63777&format=png&color=000000) | ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png) |
+(xii). **CI/CD Pipelines**| ![GitLab CI](https://img.icons8.com/color/48/000000/gitlab.png) | ![GitHub Actions](https://img.icons8.com/?size=50&id=63777&format=png&color=000000)) | ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png) |
 
 (xiii). **Monitoring**| ![Prometheus](https://img.icons8.com/?size=50&id=Ei4ZhVQvIMHE&format=png&color=000000) |
 
@@ -48,7 +48,7 @@ Hi there! I'm an aspiring **DevOps Engineer** with a passion for automation, clo
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=obekegodfrey&show_icons=true&hide_title=true&count_private=true&theme=radical)
 
 ---
 

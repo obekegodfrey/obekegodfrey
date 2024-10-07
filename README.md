@@ -32,7 +32,7 @@ Hi there! I'm an aspiring **DevOps Engineer** with a passion for automation, clo
 
 (xii). **CI/CD Pipelines**| ![GitLab CI](https://img.icons8.com/color/48/000000/gitlab.png) ![GitHub Actions](https://img.icons8.com/color/48/000000/github-actions.png) ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png) |
 
-(xiii). **Monitoring**| ![Prometheus](https://img.icons8.com/color/48/000000/prometheus.png) |
+(xiii). **Monitoring**| ![Prometheus](https://www.iconfinder.com/icons/3167880/prometheus_share_fire_icon) |
 
 (xiv). **Alerting**| ![Slack](https://img.icons8.com/color/48/000000/slack-new.png) |
 

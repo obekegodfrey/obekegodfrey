@@ -10,9 +10,9 @@ Hi there! I'm an aspiring **DevOps Engineer** with a passion for automation, clo
 
 (1). **Software Development Life Cycle** | ![SDLC](https://img.icons8.com/color/48/000000/software-development.png)  |
 
-(ii). **Operating Systems**| ![Linux](https://img.icons8.com/color/48/000000/linux.png) ![Windows](https://img.icons8.com/color/48/000000/windows-10.png) |
+(ii). **Operating Systems**| ![Linux](https://img.icons8.com/color/48/000000/linux.png) | ![Windows](https://img.icons8.com/color/48/000000/windows-10.png) |
 
-(iii). **Scripting/Programming Languages**| ![Bash](https://img.icons8.com/color/48/000000/bash.png) ![Python](https://img.icons8.com/color/48/000000/python.png) ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) ![HCL](https://img.icons8.com/color/48/000000/hashicorp.png) |
+(iii). **Scripting/Programming Languages**| ![Bash](https://img.icons8.com/color/48/000000/bash.png) | ![Python](https://img.icons8.com/color/48/000000/python.png) | ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) | ![HCL](https://img.icons8.com/?size=50&id=FRj9iWYkLpyO&format=png&color=000000) |
 
 (iv). **Data Serialization Languages**| ![JSON](https://img.icons8.com/color/48/000000/json.png) ![YAML](https://img.icons8.com/color/48/000000/yaml.png) ![XML](https://img.icons8.com/color/48/000000/xml.png) |
 
@@ -20,7 +20,7 @@ Hi there! I'm an aspiring **DevOps Engineer** with a passion for automation, clo
 
 (vi). **Networking and Security**| ![Networking](https://img.icons8.com/color/48/000000/networking.png) |
 
-(vii). **Cloud Providers**| ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) ![Azure](https://img.icons8.com/color/48/000000/microsoft-azure.png) |
+(vii). **Cloud Providers**| ![AWS](https://img.icons8.com/color/48/000000/amazon-web-services.png) | ![Azure](https://img.icons8.com/?size=50&id=81727&format=png&color=000000) |
 
 (viii). **Infrastructure Provisioning**| ![Terraform](https://img.icons8.com/color/48/000000/terraform.png) |
 
@@ -30,9 +30,9 @@ Hi there! I'm an aspiring **DevOps Engineer** with a passion for automation, clo
 
 (xi). **Container Orchestration**| ![Kubernetes](https://img.icons8.com/color/48/000000/kubernetes.png) |
 
-(xii). **CI/CD Pipelines**| ![GitLab CI](https://img.icons8.com/color/48/000000/gitlab.png) ![GitHub Actions](https://img.icons8.com/color/48/000000/github-actions.png) ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png) |
+(xii). **CI/CD Pipelines**| ![GitLab CI](https://img.icons8.com/color/48/000000/gitlab.png) | ![GitHub Actions] (https://img.icons8.com/?size=50&id=63777&format=png&color=000000) | ![Jenkins](https://img.icons8.com/color/48/000000/jenkins.png) |
 
-(xiii). **Monitoring**| ![Prometheus](https://www.iconfinder.com/icons/3167880/prometheus_share_fire_icon) |
+(xiii). **Monitoring**| ![Prometheus](https://img.icons8.com/?size=50&id=Ei4ZhVQvIMHE&format=png&color=000000) |
 
 (xiv). **Alerting**| ![Slack](https://img.icons8.com/color/48/000000/slack-new.png) |
 
@@ -61,6 +61,9 @@ Here are some projects I’ve worked on:
 - **[Project Name 3](#)**: A brief description of the project and your role.
 
 ---
+
+
+
 ---
 
 ## 🚀 Let's Connect!
